@@ -5,8 +5,13 @@ public class Starter {
 		System.out.println("hello world");
 		System.out.println("welcome");
 		System.out.println("hai");
+	
+
+		System.out.println("4");
+
 		System.out.println("5");
-		
+	
+
 	}
 
 }
